@@ -22,7 +22,7 @@
         @apply bg-white py-8 px-6 shadow rounded-lg sm:px-10;
     }
     .form {
-        @apply mb-0 mt-4 space-y-6;
+        @apply mb-0 mt-8 space-y-6;
     }
     .form-lable {
         @apply block text-sm font-medium text-gray-700;

@@ -21,7 +21,7 @@
           />
         </svg>
         <span class="text-2xl font-extrabold text-white hover:text-green-500"
-          >Main</span
+          >Home</span
         >
       </a>
 
@@ -123,7 +123,7 @@
         </button>
       </div>
       <!-- Content -->
-      <div class="pt-8">
+      <div class="pt-8 text-gray-600" >
         <div class="login-main">
           <div class="login-main-form">
             <div class="font-extrabold px-20 text-xl">Create Your Account</div>
@@ -173,5 +173,3 @@ export default {
   },
 };
 </script>
-
-<style></style>
